@@ -17,17 +17,17 @@ To install and setup this project on your local machine, perform the following s
 
 1. Clone this repository: 
 ```bash
-    git clone https://github.com/Manthan-hub/Amazon-Product-Scraper.git
+git clone https://github.com/Manthan-hub/Amazon-Product-Scraper.git
 ```
 
 2. Navigate into the project directory:
 ```bash
-    cd amazon_scraper
+cd amazon_scraper
 ```
 
 3. Installation of required Python libraries:
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -36,11 +36,11 @@ After the installation, to start the scraping process, you can run the following
 For JSON Output:
 
 ```bash
-    scrapy crawl amazon -o amazon.json
+scrapy crawl amazon -o amazon.json
 ```
 
 For CSV Output:
 
 ```bash
-    scrapy crawl amazon -o amazon.csv
+scrapy crawl amazon -o amazon.csv
 ```
