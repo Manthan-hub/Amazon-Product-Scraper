@@ -1,6 +1,6 @@
 # Amazon Scrapy Project
 
-This project scrapes product information from Amazon using the Scrapy framework in Python. It extracts product details such as name, price, review count, and ratings.
+This project scrapes product information from Amazon using the Scrapy framework in Python. It extracts product details such as title, price, ratings, author and description.
 
 ## Table of Contents
 - [Requirements](#requirements)
