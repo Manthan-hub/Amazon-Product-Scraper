@@ -17,6 +17,6 @@ To install and setup this project on your local machine, perform the following s
 
 1. Clone this repository: 
 ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/Manthan-hub/Amazon-Product-Scraper.git
 ```
 
